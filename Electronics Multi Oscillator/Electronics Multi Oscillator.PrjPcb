@@ -210,59 +210,80 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document11]
+DocumentPath=PCB v2.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OABTTGXN
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Electronics Multi Oscillator\Bill of Materials-Electronics Multi Oscillator.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\Electronics Multi Oscillator.nsx
+DocumentPath=Project Outputs for Electronics Multi Oscillator\Design Rule Check - PCB v2.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\MultiOsc-RectHoles.TXT
+DocumentPath=Project Outputs for Electronics Multi Oscillator\Electronics Multi Oscillator.nsx
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\MultiOsc-RoundHoles.TXT
+DocumentPath=Project Outputs for Electronics Multi Oscillator\MultiOsc-RectHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\MultiOsc-SlotHoles.TXT
+DocumentPath=Project Outputs for Electronics Multi Oscillator\MultiOsc-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\MultiOsc.DRR
+DocumentPath=Project Outputs for Electronics Multi Oscillator\MultiOsc-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\MultiOsc.EXTREP
+DocumentPath=Project Outputs for Electronics Multi Oscillator\MultiOsc.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\MultiOsc.GBL
+DocumentPath=Project Outputs for Electronics Multi Oscillator\MultiOsc.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\MultiOsc.GM1
+DocumentPath=Project Outputs for Electronics Multi Oscillator\MultiOsc.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\MultiOsc.GTL
+DocumentPath=Project Outputs for Electronics Multi Oscillator\MultiOsc.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\MultiOsc.LDP
+DocumentPath=Project Outputs for Electronics Multi Oscillator\MultiOsc.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\MultiOsc.REP
+DocumentPath=Project Outputs for Electronics Multi Oscillator\MultiOsc.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\MultiOsc.RUL
+DocumentPath=Project Outputs for Electronics Multi Oscillator\MultiOsc.REP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
+DocumentPath=Project Outputs for Electronics Multi Oscillator\MultiOsc.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
 DocumentPath=Project Outputs for Electronics Multi Oscillator\MultiOsc.TXT
 DItemRevisionGUID=
 
