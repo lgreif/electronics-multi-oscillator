@@ -244,115 +244,140 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LVITLWTW
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB-RectHoles.TXT
+[Document13]
+DocumentPath=PCBWay.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[GeneratedDocument2]
+[GeneratedDocument1]
 DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB-RoundHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB-SlotHoles.TXT
 DItemRevisionGUID=
 
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB-SquareHoles.TXT
+DItemRevisionGUID=
+
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.DRR
+DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.1
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.EXTREP
+DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GBL
+DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GBO
+DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GBP
+DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GBS
+DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GKO
+DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GM1
+DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GM5
+DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GM13
+DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GM5
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GM15
+DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GM16
+DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GM20
+DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GM21
+DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GM20
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GM23
+DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GM21
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GM24
+DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GM23
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GPB
+DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GM24
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GPT
+DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GML
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GTL
+DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GTO
+DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GTP
+DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GTS
+DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.LDP
+DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.REP
+DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument28]
+DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument30]
 DocumentPath=Project Outputs for Electronics Multi Oscillator\PCBWay\FinalPCB.RUL
 DItemRevisionGUID=
 
